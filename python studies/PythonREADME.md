@@ -1,0 +1,1 @@
+Functions: as set of code that runs when it is called.
